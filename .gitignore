@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.ipynb_checkpoints/
+utils.py
+assigment_utils.py
+deeplearning.mplstyle
+public_tests_a1.py
